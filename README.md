@@ -1,5 +1,4 @@
-<a data-flickr-embed="true" href="https://live.staticflickr.com/65535/50509957896_6cff8d6be3_h.jpg" width="1399" height="938" alt="index web">
-</a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188964866@N08/50509957896/in/dateposted/" title="index web"><img src="https://live.staticflickr.com/65535/50509957896_6cff8d6be3_h.jpg" width="1399" height="938" alt="index web"></a>
 
 <h1>Next Level Week 3</h1>
 
